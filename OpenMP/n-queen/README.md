@@ -12,6 +12,7 @@ This repository contains a C program that solves the N-Queens problem using para
 
 ## Performance Considerations
 
-The code uses OpenMP to parallelize the search for solutions to the N-Queens problem. Depending on your hardware and the value of `N`, you may observe varying levels of speedup when running the program on different systems.
+The code uses OpenMP to parallelize the search for solutions to the N-Queens problem. Depending on your hardware and the value of `N`, you may observe varying levels of speedup when running the program on different systems. here is the results on my machine.  
+![Results](https://github.com/navidnt/Multi-core/blob/main/OpenMP/n-queen/results.jpg)
 
 
