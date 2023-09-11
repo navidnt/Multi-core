@@ -1,0 +1,17 @@
+N       no parallelize		parallelized
+1	3 us			378 us
+2	4 us			592 us
+3	11 us			541 us
+4	5 us			759 us
+5	10 us			2084 us
+6	25 us			840 us
+7	374 us			1092 us
+8	1628 us			1247 us
+9	7561 us			7933 us
+10	10936 us		4445 us
+11	83158 us		15816 us
+12	28206 us		73092 us
+13	1463766 us 		372455 us
+14	9367214 us		2335812 us
+15	64941848 us		15199850 us
+16	about 8 mins		113651996 us
